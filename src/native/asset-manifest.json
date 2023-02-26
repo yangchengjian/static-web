@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.caaabc52.chunk.css",
-    "main.js": "/static/js/main.bab198c1.chunk.js",
-    "main.js.map": "/static/js/main.bab198c1.chunk.js.map",
+    "main.js": "/static/js/main.ec3acd55.chunk.js",
+    "main.js.map": "/static/js/main.ec3acd55.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.16b5228f.js",
     "runtime-main.js.map": "/static/js/runtime-main.16b5228f.js.map",
     "static/js/2.ec0968f2.chunk.js": "/static/js/2.ec0968f2.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/index.html",
     "static/css/main.caaabc52.chunk.css.map": "/static/css/main.caaabc52.chunk.css.map",
     "static/js/2.ec0968f2.chunk.js.LICENSE.txt": "/static/js/2.ec0968f2.chunk.js.LICENSE.txt",
-    "static/js/main.bab198c1.chunk.js.LICENSE.txt": "/static/js/main.bab198c1.chunk.js.LICENSE.txt",
+    "static/js/main.ec3acd55.chunk.js.LICENSE.txt": "/static/js/main.ec3acd55.chunk.js.LICENSE.txt",
     "static/media/WebPage.7f2d2c96.jpg": "/static/media/WebPage.7f2d2c96.jpg",
     "static/media/SmartDisplay.css": "/static/media/background.b1835553.jpg"
   },
@@ -18,6 +18,6 @@
     "static/js/runtime-main.16b5228f.js",
     "static/js/2.ec0968f2.chunk.js",
     "static/css/main.caaabc52.chunk.css",
-    "static/js/main.bab198c1.chunk.js"
+    "static/js/main.ec3acd55.chunk.js"
   ]
 }
