@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c31ea646.css",
+    "main.css": "/static/css/main.8327fd9a.css",
     "main.js": "/static/js/main.14b1bfb5.js",
     "static/media/background.jpg": "/static/media/background.b18355536c1c9df8ddcd.jpg",
     "static/media/WebPage.jpg": "/static/media/WebPage.7f2d2c9610c9bbad5908.jpg",
@@ -11,11 +11,11 @@
     "static/media/alibaba-iconfont.ttf?t=1685496579979": "/static/media/alibaba-iconfont.6019fa69540a7c62b816.ttf",
     "index.html": "/index.html",
     "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
-    "main.c31ea646.css.map": "/static/css/main.c31ea646.css.map",
+    "main.8327fd9a.css.map": "/static/css/main.8327fd9a.css.map",
     "main.14b1bfb5.js.map": "/static/js/main.14b1bfb5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c31ea646.css",
+    "static/css/main.8327fd9a.css",
     "static/js/main.14b1bfb5.js"
   ]
 }
